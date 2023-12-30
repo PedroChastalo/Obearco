@@ -222,7 +222,7 @@ Transform:
   m_GameObject: {fileID: 577725480}
   serializedVersion: 2
   m_LocalRotation: {x: 0.23883717, y: -0.23834144, z: -0.66633, w: 0.6649471}
-  m_LocalPosition: {x: 142.8, y: -24.6, z: 31.8}
+  m_LocalPosition: {x: 0, y: 3.44, z: 8.74}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -639,7 +639,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sharedProfile: {fileID: 11400000, guid: f6b88a9c227bed947983a63380955dc6, type: 2}
   isGlobal: 0
-  blendDistance: 0
+  blendDistance: 30.12
   weight: 1
   priority: 0
 --- !u!1 &1929168304
